@@ -1,0 +1,15 @@
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\bin\Debug\net6.0\DataStructureDay14.exe
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\bin\Debug\net6.0\DataStructureDay14.deps.json
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\bin\Debug\net6.0\DataStructureDay14.runtimeconfig.json
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\bin\Debug\net6.0\DataStructureDay14.dll
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\bin\Debug\net6.0\DataStructureDay14.pdb
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.AssemblyInfo.cs
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.dll
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\refint\DataStructureDay14.dll
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.pdb
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\DataStructureDay14.genruntimeconfig.cache
+C:\Users\milan\source\repos\DataStructureDay14\DataStructureDay14\obj\Debug\net6.0\ref\DataStructureDay14.dll
