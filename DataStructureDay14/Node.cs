@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataStructureDay14
+{
+    internal class Node
+    {
+        public static void Node1()
+        { }
+        public int data;
+        public Node next;
+        public Node(int data)
+        {
+            this.data = data;
+        }
+    }
+}
